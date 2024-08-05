@@ -1,0 +1,4 @@
+mkdir folder
+netstat > file.txt
+find ":80 " file.txt
+del file.txt
